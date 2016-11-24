@@ -40,6 +40,9 @@ html {
 
 .banner {
   background-image: url("../images/banner.jpg"), linear-gradient(to bottom, transparent, rgba(16, 52, 41, 0), rgba(16, 52, 41, .8));
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom center;
 
 }
 
